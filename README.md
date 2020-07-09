@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **mikesprague/mikesprague** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![New York City Traffic](https://66.media.tumblr.com/06a455ce49ae77ea8da9146ae30720c0/tumblr_mzvb4dLIQR1qjlsqio9_500.gif)
