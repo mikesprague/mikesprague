@@ -1,5 +1,5 @@
 ![New York City Traffic](https://camo.githubusercontent.com/0d2a5cfe13a641ef557f8a32d37f0738833fd9a1/68747470733a2f2f36362e6d656469612e74756d626c722e636f6d2f30366134353563653439616537376561386461393134366165333037323063302f74756d626c725f6d7a766234644c49515231716a6c7371696f395f3530302e676966)
-
+<!--
 ## Programmer's Oath
 
 ### I Promise that, to the best of my ability and judgement:
@@ -15,6 +15,7 @@
 1. I will never stop learning and improving my craft.
 
 <small>Source: <a href="http://blog.cleancoder.com/uncle-bob/2015/11/18/TheProgrammersOath.html" rel="noreferrer noopener" target="_blank">http://blog.cleancoder.com/uncle-bob/2015/11/18/TheProgrammersOath.html</a></small>
+-->
 <!--
 **mikesprague/mikesprague** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
