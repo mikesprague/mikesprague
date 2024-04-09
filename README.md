@@ -1,4 +1,4 @@
-![New York City Traffic](https://gifdb.com/images/high/new-york-city-busy-street-fe835my6gt42zyma.gif)
+<img src="https://gifdb.com/images/high/new-york-city-busy-street-fe835my6gt42zyma.gif" width="640" style="margin: 0 auto" />
 <!--
 ## Programmer's Oath
 
